@@ -1,30 +1,60 @@
-# Lucas Fernandes
+<div align="center">
 
-Software Engineer em formação na FIAP, com foco em construir produtos web full stack e integrações usando TypeScript.
+# Olá, eu sou Lucas Fernandes 👋
 
-Atualmente desenvolvo projetos com:
+### Software Engineer em formação · Full Stack · FIAP
 
-- TypeScript, React e Next.js
-- Node.js e APIs
-- PostgreSQL, Supabase e Row Level Security
-- testes automatizados, GitHub Actions e deploy na Vercel
-- integração de IA com revisão, testes e validação humana
+Construo produtos web com TypeScript, React, Next.js, Node.js e PostgreSQL — usando IA para acelerar a implementação com revisão, testes e validação humana.
+
+[![GitHub](https://img.shields.io/badge/GitHub-lucasfer--dev-181717?style=for-the-badge&logo=github)](https://github.com/lucasfer-dev)
+[![Envista](https://img.shields.io/badge/Live%20Demo-Envista-0A7B83?style=for-the-badge)](https://novo-envista.vercel.app/)
+
+</div>
+
+## Sobre mim
+
+- 🎓 Estudante de Engenharia de Software na FIAP.
+- 💻 Buscando oportunidades de estágio e desenvolvimento júnior em Full Stack, Backend ou Software Engineering.
+- 🧠 Foco atual: fundamentos de engenharia, APIs, bancos de dados, testes e entrega de software.
+- 🤖 Utilizo IA como ferramenta de produtividade, mantendo responsabilidade sobre arquitetura, código, debugging, segurança e qualidade.
+- 📍 São Paulo, Brasil.
+
+## Stack principal
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</div>
 
 ## Projetos em destaque
 
-### [Envista](https://github.com/lucasfer-dev/novo-envista)
-Plataforma web com Next.js, TypeScript, Supabase Auth, PostgreSQL, RLS, Storage, testes e deploy na Vercel.
+| Projeto | O que demonstra |
+| --- | --- |
+| [Envista](https://github.com/lucasfer-dev/novo-envista) | Aplicação web com Next.js, TypeScript, Supabase Auth, PostgreSQL, RLS, Storage, testes e deploy na Vercel. |
+| [Seta-feira](https://github.com/lucasfer-dev/seta-feira) | Assistente multiplataforma com integrações externas, memória, Supabase, voz e ferramentas de IA. |
+| [Fiapos Barber](https://github.com/lucasfer-dev/fiapos-barber) | Sistema de agendamento com regras de disponibilidade, buffer e prevenção de conflitos no banco. |
 
-### [Seta-feira](https://github.com/lucasfer-dev/seta-feira)
-Assistente multiplataforma com integrações externas, memória, Supabase, voz e ferramentas de IA. O repositório documenta limites e requisitos de configuração.
+## Como trabalho com IA
 
-### [Fiapos Barber](https://github.com/lucasfer-dev/fiapos-barber)
-Sistema de agendamento com regras de disponibilidade, buffer, prevenção de conflitos no banco e estrutura preparada para Supabase.
+Uso IA para explorar alternativas e acelerar a implementação. Antes de considerar uma entrega pronta, reviso o diff, executo testes, reproduzo bugs, verifico contratos de API, avalio riscos de segurança e documento as decisões importantes.
 
-## Como trabalho
+## Contato
 
-Uso IA para acelerar implementação, mas valido as decisões com leitura de código, testes, debugging, revisão de diffs e análise de segurança.
+- [GitHub](https://github.com/lucasfer-dev)
+- [Envista — demonstração](https://novo-envista.vercel.app/)
 
-Estou buscando oportunidades de estágio e desenvolvimento júnior em Full Stack, Backend ou Software Engineering.
+<div align="center">
 
-[GitHub](https://github.com/lucasfer-dev) · [Envista](https://novo-envista.vercel.app/)
+_Construindo software melhor, uma entrega verificável por vez._
+
+</div>
