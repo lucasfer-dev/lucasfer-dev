@@ -7,7 +7,8 @@
 Construo produtos web com TypeScript, React, Next.js, Node.js e PostgreSQL — usando IA para acelerar a implementação com revisão, testes e validação humana.
 
 [![GitHub](https://img.shields.io/badge/GitHub-lucasfer--dev-181717?style=for-the-badge&logo=github)](https://github.com/lucasfer-dev)
-[![Envista](https://img.shields.io/badge/Live%20Demo-Envista-0A7B83?style=for-the-badge)](https://novo-envista.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-fernandes-ads/)
+[![Envista](https://img.shields.io/badge/Live%20Demo-Envista-0A7B83?style=for-the-badge)](https://useenvista.com.br/)
 
 </div>
 
@@ -51,7 +52,8 @@ Uso IA para explorar alternativas e acelerar a implementação. Antes de conside
 ## Contato
 
 - [GitHub](https://github.com/lucasfer-dev)
-- [Envista — demonstração](https://novo-envista.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/lucas-fernandes-ads/)
+- [Envista — useenvista.com.br](https://useenvista.com.br/)
 
 <div align="center">
 
