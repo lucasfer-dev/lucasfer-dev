@@ -18,7 +18,7 @@ Construo produtos web com TypeScript, React, Next.js, Node.js e PostgreSQL — u
 - 💻 Buscando oportunidades de estágio e desenvolvimento júnior em Full Stack, Backend ou Software Engineering.
 - 🧠 Foco atual: fundamentos de engenharia, APIs, bancos de dados, testes e entrega de software.
 - 🤖 Utilizo IA como ferramenta de produtividade, mantendo responsabilidade sobre arquitetura, código, debugging, segurança e qualidade.
-- 📍 São Paulo, Brasil.
+- 📍 Rio de Janeiro, Brasil.
 
 ## Stack principal
 
