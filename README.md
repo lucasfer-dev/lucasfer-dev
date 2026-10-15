@@ -4,11 +4,10 @@
 
 ### Software Engineer em formação · Full Stack · FIAP
 
-Construo produtos web com TypeScript, React, Next.js, Node.js e PostgreSQL — usando IA para acelerar a implementação com revisão, testes e validação humana.
+Construo produtos web e ferramentas com TypeScript, React, Next.js, Node.js e PostgreSQL — com foco em código sustentável, testes e entrega de valor.
 
-[![GitHub](https://img.shields.io/badge/GitHub-lucasfer--dev-181717?style=for-the-badge&logo=github)](https://github.com/lucasfer-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-fernandes-ads/)
-[![Envista](https://img.shields.io/badge/Live%20Demo-Envista-0A7B83?style=for-the-badge)](https://useenvista.com.br/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Envista-0A7B83?style=for-the-badge)](https://useenvista.com.br/)
 
 </div>
 
@@ -16,16 +15,14 @@ Construo produtos web com TypeScript, React, Next.js, Node.js e PostgreSQL — u
 
 - 🎓 Estudante de Engenharia de Software na FIAP.
 - 💻 Buscando oportunidades de estágio e desenvolvimento júnior em Full Stack, Backend ou Software Engineering.
-- 🧠 Foco atual: fundamentos de engenharia, APIs, bancos de dados, testes e entrega de software.
-- 🤖 Utilizo IA como ferramenta de produtividade, mantendo responsabilidade sobre arquitetura, código, debugging, segurança e qualidade.
+- 🧠 Interesso-me por APIs, bancos de dados, autenticação, testes e arquitetura de software.
+- 🤖 Uso IA para acelerar exploração e implementação, mantendo responsabilidade por decisões técnicas, segurança e qualidade.
 - 📍 Rio de Janeiro, Brasil.
 
-## Stack principal
+## Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -41,19 +38,18 @@ Construo produtos web com TypeScript, React, Next.js, Node.js e PostgreSQL — u
 
 | Projeto | O que demonstra |
 | --- | --- |
-| [Envista](https://github.com/lucasfer-dev/novo-envista) | Aplicação web com Next.js, TypeScript, Supabase Auth, PostgreSQL, RLS, Storage, testes e deploy na Vercel. |
-| [Seta-feira](https://github.com/lucasfer-dev/seta-feira) | Assistente multiplataforma com integrações externas, memória, Supabase, voz e ferramentas de IA. |
-| [Fiapos Barber](https://github.com/lucasfer-dev/fiapos-barber) | Sistema de agendamento com regras de disponibilidade, buffer e prevenção de conflitos no banco. |
+| [Envista](https://github.com/lucasfer-dev/novo-envista) | Produto web com Next.js, TypeScript, Supabase Auth, PostgreSQL, RLS, Storage, testes e deploy na Vercel. |
+| [Seta-feira](https://github.com/lucasfer-dev/seta-feira) | Assistente multiplataforma com integrações externas, memória, voz e ferramentas de IA. |
+| [Fiapos Barber](https://github.com/lucasfer-dev/fiapos-barber) | Sistema de agendamento com disponibilidade, buffer e prevenção de conflitos no banco. |
 
-## Como trabalho com IA
+## Como trabalho
 
-Uso IA para explorar alternativas e acelerar a implementação. Antes de considerar uma entrega pronta, reviso o diff, executo testes, reproduzo bugs, verifico contratos de API, avalio riscos de segurança e documento as decisões importantes.
+Gosto de transformar problemas reais em entregas pequenas e verificáveis. No desenvolvimento, reviso o diff, executo testes, reproduzo bugs, valido contratos de API, considero riscos de segurança e documento decisões importantes.
 
 ## Contato
 
-- [GitHub](https://github.com/lucasfer-dev)
 - [LinkedIn](https://www.linkedin.com/in/lucas-fernandes-ads/)
-- [Envista — useenvista.com.br](https://useenvista.com.br/)
+- [Portfolio — Envista](https://useenvista.com.br/)
 
 <div align="center">
 
